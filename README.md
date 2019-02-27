@@ -53,6 +53,7 @@ Once you've navigated to the liri-node-app in your terminal, type in "node liri.
 Here is a link to a video demo:
 [Video Demo](https://youtu.be/W0-Kg1dPW1k)
 
+<<<<<<< HEAD
 Spotify api in action
 ![Spotify](./images/spotify.png)
 Bands in Town api in action
@@ -61,3 +62,9 @@ OMDB api in action
 ![OMDB](./images/movies.png)
 FS api in action
 ![Do What it Says](./images/random.png)
+=======
+![Spotify](./images/spotify.png)
+![Bands in Town](./images/concert.png)
+![OMDB](./images/movies.png)
+![Do What it Says](./images/random.png)
+>>>>>>> d534c2d04100230a92f530b5b33a3ba78611c784
