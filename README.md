@@ -54,6 +54,7 @@ Here is a link to a video demo:
 [Video Demo](https://youtu.be/W0-Kg1dPW1k)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Spotify api in action
 ![Spotify](./images/spotify.png)
 Bands in Town api in action
@@ -63,8 +64,14 @@ OMDB api in action
 FS api in action
 ![Do What it Says](./images/random.png)
 =======
+=======
+Spotify api in action
+>>>>>>> b8cb58dc155c8f133fcf3bf4032ad755b90b4969
 ![Spotify](./images/spotify.png)
+Bands in Town api in action
 ![Bands in Town](./images/concert.png)
+OMDB api in action
 ![OMDB](./images/movies.png)
+FS api in action
 ![Do What it Says](./images/random.png)
 >>>>>>> d534c2d04100230a92f530b5b33a3ba78611c784
